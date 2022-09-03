@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: null
 title:  "Welcome to Jekyll!"
 date:   2022-09-03 13:35:56 +0700
 categories: Halcyon Description
