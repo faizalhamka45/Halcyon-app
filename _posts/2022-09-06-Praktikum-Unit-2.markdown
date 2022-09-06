@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Praktikum Unit 2"
-date:   2022-09-006 10:45:56 +0700
+date:   2022-09-006 10:45:56
 categories: Halcyon UseCase Activity Class Diagram
 ---
 
